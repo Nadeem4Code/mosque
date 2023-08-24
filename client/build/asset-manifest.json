@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.974a53bb.css",
+    "main.js": "/static/js/main.6c26eb5d.js",
+    "static/media/time1.jpg": "/static/media/time1.f3e760d34b8dd7dabcff.jpg",
+    "static/media/bismillah.svg": "/static/media/bismillah.c468b4f6b2dd0549c82a4ac149bb4e6a.svg",
+    "static/media/sujud.svg": "/static/media/sujud.8e6589803d3391558ec51ef13be6285c.svg",
+    "static/media/zakat.svg": "/static/media/zakat.1a46f7cb7734d432f39c46963acf99fb.svg",
+    "static/media/ramzan.svg": "/static/media/ramzan.c2cc251b456dc01e5d3da32d1ea0cf36.svg",
+    "static/media/Quran.svg": "/static/media/Quran.2fc5f24953de77f5a89edd8163115d7f.svg",
+    "static/media/allah.svg": "/static/media/allah.7d25ad536eb85bced9feda3e2ee6fca7.svg",
+    "static/media/book.svg": "/static/media/book.3b5242d33274ffbf6377fe596e030951.svg",
+    "static/media/three.svg": "/static/media/three.a5c8f4cf3c56d93bb5cc52704bd21a5a.svg",
+    "static/media/two.svg": "/static/media/two.1ff73e1892f8d3914d5f52ef32df40a0.svg",
+    "static/media/userList.svg": "/static/media/userList.55cd1c128d62d1b19b7840ae87fcafc2.svg",
+    "static/media/userListColor.svg": "/static/media/userListColor.7eb4e4ca94e6eb4f7ee2fe365c91091e.svg",
+    "static/media/four.svg": "/static/media/four.eaeceb8383a19c03812682927bc6662e.svg",
+    "static/media/five.svg": "/static/media/five.328e882c726c33840b9b3b6e00cf21d1.svg",
+    "static/media/one.svg": "/static/media/one.14f8164c80f65cc15e977165cca9c3a0.svg",
+    "static/media/login.svg": "/static/media/login.d895a58f23f2f4097059154821201c57.svg",
+    "static/media/loginColor.svg": "/static/media/loginColor.c7199e0246b4a6f7812d684613843f42.svg",
+    "static/media/logo.svg": "/static/media/logo.d2c9b9ae2bfb1525138c5e05158ba3c3.svg",
+    "index.html": "/index.html",
+    "static/media/donation.svg": "/static/media/donation.c678d71a29a1a126ab46e2259d86bc4c.svg",
+    "static/media/donationColor.svg": "/static/media/donationColor.77cbe4424903fc0681f8d0b7f2bc7f98.svg",
+    "static/media/kaaba.svg": "/static/media/kaaba.390ba06aaf028fd190eb3140c9a93fa2.svg",
+    "static/media/search.svg": "/static/media/search.66e9b1f95c58b01a58903bc015c26201.svg",
+    "static/media/menu.svg": "/static/media/menu.00f113891856213d6fa0565e75558e32.svg",
+    "static/media/homeColor.svg": "/static/media/homeColor.e643f6bebe61a249fdf47a297aa000c6.svg",
+    "static/media/home.svg": "/static/media/home.c782fc6954e1d7f1d02b0b33a9589576.svg",
+    "main.974a53bb.css.map": "/static/css/main.974a53bb.css.map",
+    "main.6c26eb5d.js.map": "/static/js/main.6c26eb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974a53bb.css",
+    "static/js/main.6c26eb5d.js"
+  ]
+}
